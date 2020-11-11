@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyEvents</string>
+    <string name="redlands_music_events">Redlands Music Events</string>
+    <string name="dates1">July 24 - August 9</string>
+    <string name="add_event">Add Event</string>
+    <string name="event_date">Event Date</string>
+    <string name="event_name">Event Name</string>
+</resources>
